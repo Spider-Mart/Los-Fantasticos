@@ -1,3 +1,4 @@
 # Los-Fantasticos
 Estudiantes de Ingenieria Biomedica
-![EGC ejemplo](imagenes/Los fantasticos.jpg)
+![Los fantásticos](imagenes/Los fantasticos.jpg)
+
