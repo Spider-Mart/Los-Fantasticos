@@ -5,7 +5,7 @@ Somos estudiantes del segundo semestre de la carrera de Ingeniería Biomédica e
 # INTEGRANTES 🐿️:
 ![Integrantes](imagenes/So.jpeg)
 🔧 Renzo Álvarez
-👨‍🔬 Nicolás Vergara  
+**👨‍🔬 Nicolás Vergara **
 ⚙️ Álvaro Mendizábal  
 💡 Rodrigo Gallardo  
 🧬 Yamileth Mendoza  
