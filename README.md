@@ -1,5 +1,5 @@
 # Los-Fantasticos 
-![Los fantásticos](imagenes/Losfantasticos.jpg)
+![Los fantásticos](imagenes/Los_fantasticos.jpg)
 
 
 
